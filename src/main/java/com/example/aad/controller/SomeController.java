@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SomeController {
     @GetMapping("admin")
     @ResponseBody
-    @PreAuthorize("hasAuthority('APPROLE_admin')")
+//    @PreAuthorize("hasAuthority('APPROLE_admin')")
     public String Admin() {
         return getUser().toString();
     }
