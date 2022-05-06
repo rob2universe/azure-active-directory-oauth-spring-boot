@@ -5,3 +5,4 @@ https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure
 
 https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/spring-boot-starter-for-azure-active-directory-developer-guide#access-a-web-application
 
+https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/spring-boot-starter-for-azure-active-directory-developer-guide
